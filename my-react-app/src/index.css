@@ -1,0 +1,25 @@
+*{
+  background: black;
+}
+.main{
+  display: inline-block;
+  margin-top: 12%;
+    color: black;
+    margin-left:34%;
+  }
+  p{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    color: #5f6a6d;  
+  }
+  .button2{
+    display: inline-block;
+    border: 2px solid wheat;
+    padding: 39px 20px;
+    margin: 0px 45px;
+    
+    color: #5f6a6d;
+    justify-items: center;
+
+  }
